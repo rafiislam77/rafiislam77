@@ -18,7 +18,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation |<a href="https://github.com/rafiislam77/Automation-Lab/edit/main/README.md">Detection Lab</a>|
+| Scripting and Automation for Threat Mitigation |<a href="https://github.com/rafiislam77/Automation-Lab/edit/main/README.md">Automation Lab</a>|
 
 ## Certifications
 <div>
