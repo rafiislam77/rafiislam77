@@ -15,7 +15,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Digital Forensics and Incident Response        | <a href="https://github.com/rafiislam77/Forensic-Lab">Forensic Lab</a>|
 | Incident Response Planning and Execution      |<a href="https://github.com/rafiislam77/incident-Response-/blob/main/README.md">NS Power Playbook</a>|
 | Case Management with TheHive                  | Coming soon|
 | Scripting and Automation for Threat Mitigation |<a href="https://github.com/rafiislam77/Automation-Lab/edit/main/README.md">Automation Lab</a>|
