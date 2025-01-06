@@ -14,7 +14,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Incident Response and Analysis          | <a href="https://drive.google.com/file/d/1u3ilND4wXWKbAqs5R25viWgJ5qkOVeCV/view?usp=sharing">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Network Sensor Monitoring and Attack Detection | <a href="https://github.com/rafiislam77/Risk-and-Vulnerabilities/blob/main/README.md">Detection Lab</a>|
 | Digital Forensics and Incident Response        | <a href="https://github.com/rafiislam77/Forensic-Lab">Forensic Lab</a>|
 | Incident Response Planning and Execution      |<a href="https://github.com/rafiislam77/incident-Response-/blob/main/README.md">NS Power Playbook</a>|
 | Scripting and Automation for Threat Mitigation |<a href="https://github.com/rafiislam77/Automation-Lab/edit/main/README.md">Automation Lab</a>|
